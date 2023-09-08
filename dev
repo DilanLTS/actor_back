@@ -1,0 +1,6 @@
+
+> backend@0.0.1 start
+> nest start
+
+[32m[Nest] 4325  - [39m09/08/2023, 12:49:05 AM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 4325  - [39m09/08/2023, 12:49:05 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +56ms[39m
